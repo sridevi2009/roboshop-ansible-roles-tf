@@ -1,10 +1,12 @@
-MONGODB_HOST: mongodb.gopisri.cloud # submit your host
-REDIS_HOST: redis.gopisri.cloud
-CATALOGUE_HOST: catalogue.gopisri.cloud
-MYSQL_HOST: mysql.gopisri.cloud
-RABBITMQ_HOST: rabbitmq.gopisri.cloud
-CART_HOST: cart.gopisri.cloud
-SHIPPING_HOST: shipping.gopisri.cloud
-PAYMENT_HOST: payment.gopisri.cloud
-DISPATCH_HOST: dispatch.gopisri.cloud
-USER_HOST: user.gopisri.cloud
+MONGODB_HOST: mongodb-dev.gopisri.cloud # submit your host
+REDIS_HOST: redis-dev.gopisri.cloud
+CATALOGUE_HOST: catalogue.app-dev.gopisri.cloud
+MYSQL_HOST: mysql-dev.gopisri.cloud
+RABBITMQ_HOST: rabbitmq-dev.gopisri.cloud
+CART_HOST: cart.app-dev.gopisri.cloud
+SHIPPING_HOST: shipping.app-dev.gopisri.cloud
+PAYMENT_HOST: payment.app-dev.gopisri.cloud
+DISPATCH_HOST: dispatch.app-dev.gopisri.cloud
+USER_HOST: user.app-dev.gopisri.cloud
+# NEXUS_URL: http://172.31.5.95:8081/repository
+# group_id: "com/roboshop"
