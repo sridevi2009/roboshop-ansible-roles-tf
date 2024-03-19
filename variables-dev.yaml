@@ -8,5 +8,5 @@ SHIPPING_HOST: shipping.app-dev.gopisri.cloud
 PAYMENT_HOST: payment.app-dev.gopisri.cloud
 DISPATCH_HOST: dispatch.app-dev.gopisri.cloud
 USER_HOST: user.app-dev.gopisri.cloud
-# NEXUS_URL: http://172.31.6.71:8081/repository
-# group_id: "com/roboshop"
+NEXUS_URL: http://172.31.14.6:8081/repository
+group_id: "com/roboshop"
